@@ -7,3 +7,4 @@ instance/
 .env
 .DS_Store
 .idea/
+/Bobada/bobada.py
