@@ -51,6 +51,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Bayes.executor": "Run",
+    "Python.actualy.executor": "Run",
     "Python.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
